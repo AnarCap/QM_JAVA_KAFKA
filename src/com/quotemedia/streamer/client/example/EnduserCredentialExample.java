@@ -67,9 +67,9 @@ public class EnduserCredentialExample{
     /**
      * Adjust authentication credentials to your account.
      */
-    public static final String AUTH_WMID = "103680";
-    public static final String AUTH_USERNAME = "VSenthil1";
-    public static final String AUTH_PASSWORD = "Senthil2021";
+    public static final String AUTH_WMID = "*****";
+    public static final String AUTH_USERNAME = "*********";
+    public static final String AUTH_PASSWORD = "*********";
 
     public static final String[] SYMBOL_LIST = new String[] {"$USDJPY", "$AUDUSD", "$NZDUSD", "$EURUSD", "$GBPUSD", "$NOKJPY", "$SEKJPY",
             "/VXM24", "/VXN24", "/VXQ24", "/VXU24", "/VXV24", "/VXX24", "/VXZ24",
